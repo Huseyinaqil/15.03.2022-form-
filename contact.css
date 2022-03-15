@@ -1,0 +1,41 @@
+#backcolor{
+    background-color: #02B6A0;
+}
+#head{
+    font-size: 50px;
+    text-align: center;
+}
+#contact{
+    display: flex;
+   justify-content: space-around;
+}
+.textsize{
+    font-size: 30px;
+}
+.sub{
+    font-size: 20px;
+border: solid;
+border-radius: 5px;
+}
+
+
+.table{
+    width: 86%;
+    margin: 80px auto;
+    padding: 28px;
+    
+    background-color: rgb(26, 25, 25);
+    color:rgb(7, 0, 0);
+}
+.thead{
+    background-color: purple;
+    line-height: 50px;
+    text-align: left;
+    font-size: 26px;
+    
+}
+thead tr th{
+    padding-left: 20px;
+
+}
+
